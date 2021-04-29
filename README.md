@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://66.media.tumblr.com/4f6e8d2395f3b913a67613ba6101d568/tumblr_mpvv1jre3q1rfjowdo1_500.gif" width="200"/>
+  <img src="https://i.gifer.com/5FBP.gif" width="200"/>
 
 </p>
 
@@ -17,7 +17,7 @@
 <samp>
  <b><h2 style="color: #fc6203">S O C I A L  N E T W O R K S &nbsp; L I T !</h2> </b>
 
-<img src="https://pa1.narvii.com/6547/6ff6730ac7ae0ceaac2c00664f0016d794af4859_hq.gif" width="200"/>
+<img src="https://66.media.tumblr.com/4f6e8d2395f3b913a67613ba6101d568/tumblr_mpvv1jre3q1rfjowdo1_500.gif" width="200"/>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/johan-d-4103a5121/">
