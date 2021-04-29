@@ -32,6 +32,18 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.instagram.com/latucoh/?hl=es-la">
+  <img src="https://lh3.googleusercontent.com/proxy/3o7yv8fnlz7Jkfxh5oi2HoFfomQ8o2pOaF94xZIJ4bRKKI5IThKlmPBrbf214bde5AS-27hHw4sLCLoxj2HhGwTWVGAi3Ank" width="30px" alt="YouTube"></a>
+  &nbsp;
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.behance.net/johandaza?tracking_source=search_projects_recommended%7CjohanDaza">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTfgjQroOqcfx-DXkAxpN0FTuqj0fT1aELZg&usqp=CAU" width="30px" alt="YouTube"></a>
+  &nbsp;
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://play.google.com/store/apps/developer?id=Johan+Steven+Daza+Hurtado">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Play_Arrow_logo.svg/1200px-Google_Play_Arrow_logo.svg.png" width="30px" alt="YouTube"></a>
+  &nbsp;
+  &nbsp;
   <!-- <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a> -->
 </p> 
