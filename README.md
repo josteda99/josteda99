@@ -1,12 +1,12 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Josteda</a></b>.
+    Hello there! I'm <b>Josteda</b>.
     <br>I'm a Systems engineer student, Game Developer and Media Editor.<br>
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://pa1.narvii.com/6547/6ff6730ac7ae0ceaac2c00664f0016d794af4859_hq.gif" width="200"/>
 
 </p>
 
