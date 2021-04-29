@@ -15,7 +15,7 @@
 
 <summary> <b> <samp> More Info </samp></b></summary>
 <samp>
- <b><h2 style="color: #fc6203">S O C I A L  N E T W O R K S &nbsp; L I T !</h2> </b>
+ <b><h2 style="color: #fc6203">S O C I A L &nbsp;N E T W O R K S</h2> </b>
 
 <img src="https://66.media.tumblr.com/4f6e8d2395f3b913a67613ba6101d568/tumblr_mpvv1jre3q1rfjowdo1_500.gif" width="200"/>
 
