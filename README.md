@@ -33,7 +33,7 @@
   &nbsp;
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.instagram.com/latucoh/?hl=es-la">
-  <img src="https://lh3.googleusercontent.com/proxy/3o7yv8fnlz7Jkfxh5oi2HoFfomQ8o2pOaF94xZIJ4bRKKI5IThKlmPBrbf214bde5AS-27hHw4sLCLoxj2HhGwTWVGAi3Ank" width="30px" alt="YouTube"></a>
+  <img src="https://i.pinimg.com/originals/3b/21/c7/3b21c7efd2ba9c119fb8d361acacc31d.png" width="30px" alt="Instagram"></a>
   &nbsp;
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.behance.net/johandaza?tracking_source=search_projects_recommended%7CjohanDaza">
