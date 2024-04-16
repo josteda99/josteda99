@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b>Josteda</b>.
-    <br>I'm a Systems engineer student, Game Developer and Media Editor.<br>
+    <br>I'm a Systems engineer, Game Developer and Media Editor.<br>
 
 </samp>
 
